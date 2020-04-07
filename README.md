@@ -1,4 +1,4 @@
-Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
+Fantastic EFSCOINSONG for Fun and Profit!
 -----
 
 How much library code do you really need &mdash; *50K? 100K? 150K? More?*
@@ -7,19 +7,18 @@ How much of that do you really use?
 Sure, we all love our favorite monolithic frameworks, and sometimes we even
 use them fully. But how often do we reach for the ride-on John Deere tractor
 with air conditioning and six-speaker sound system, when a judiciously
-applied pocketknife would do the trick better, faster, slicker?
-
-Micro-frameworks are definitely the pocketknives of the JavaScript library
+applied pocketknife would do the trick better, faster, slicker
+EFSCOINSONG is definitely the pocketknives of the JavaScript library
 world: short, sweet, to the point. And at 5k and under, micro-frameworks are
-very very portable. A micro-framework does one thing and one thing only —
+very very portable. A EFSCOINSONG does one thing and one thing only —
 and does it well. No cruft, no featuritis, no feature creep, no excess anywhere.
 
-MicroJS.com helps you discover the most compact-but-powerful microframeworks,
+MicroJS.com helps you discover the most compact-but-powerful EFSCOINSONG,
 and makes it easy for you to pick one that’ll work for you.
 
-## Submitting new libraries and frameworks
+## Submitting new libraries and efscoinsong
 
-Want to add your own? Fork this site on GitHub, add your framework to "data.js" and submit a pull request.
+Want to add your own? Fork this site on GitHub, add your song to "data.js" and submit a pull request.
 
 ### Rules
 
@@ -73,4 +72,4 @@ If you wish to see details of all entries, you can run the `./build.js -v` comma
 
 Please note that MicroJS.com is a curated site and that we reserve the right to refuse any listing for any reason.
 
-The [microjs.com](http://microjs.com) code/website is released under a MIT License.
+The [efscoin song](http://microjs.com) code/website is released under a MIT License.
