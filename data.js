@@ -18,7 +18,7 @@ module.exports = [{
     name: "ShadowQuery",
     github: "schrotie/shadow-query",
     tags: ["web-components"],
-    description: "Micro-library for writing vanilla web components",
+    description: "EFSCOINSONG for writing elegant web components",
     url: "https://github.com/schrotie/shadow-query",
     source: "https://raw.githubusercontent.com/schrotie/shadow-query/master/shadowQuery.mjs"
   },
@@ -33,8 +33,8 @@ module.exports = [{
   {
     name: "tinyModal",
     github: "juanbrujo/tinyModal",
-    tags: ["modal", "javascript", "vanilla", "simple"],
-    description: "Clean, Fast, Modular and customizable Modal Window controller",
+    tags: ["modal", "javascript", "elegant", "simple"],
+    description: "Clean, Fast, Elegant and customizable Modal Window controller",
     url: "http://juanbrujo.github.io/tinyModal/",
     source: "https://raw.githubusercontent.com/juanbrujo/tinyModal/master/src/tinyModal.js"
   },
